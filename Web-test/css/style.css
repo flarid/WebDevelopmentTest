@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
+	
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0;
+}
+
+.osnova {
+	margin: 0 auto;
+	width: 850px;
+}
+
+header {
+	height: 125px;
+	background-color: #eaaf46;
+}
+
+.logo {
+	width: 333px;
+	height: 97px;
+	margin-left: 44px;
+	padding-top: 16px;
+}
+
+main {
+	width: 710px;
+	margin: 0 auto;
+}
+
+.text h1 {
+	text-transform: uppercase;
+	font-size: 58px;
+	font-family: 'Bebas', sans-serif;
+	text-align: center;
+	padding-top: 30px;
+	color: #eaaf46;
+}
+
+.text p {
+	font-family: 'Arial', sans-serif;
+	font-size: 18px;
+	text-align: center;
+	line-height: 1.4;
+	padding-bottom: 30px;
+}
+
+.clas img {
+	width: 696px;
+	height: 371px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.text2 {
+	margin-top: 50px;
+}
+
+.text2 h2 {
+	text-transform: uppercase;
+	font-family: 'Bebas', sans-serif;
+	font-size: 21px;
+	padding-left: 7px;
+}
+
+.round1 {
+	margin-top: 22px;
+}
+
+.footbal {
+	position: absolute;
+	width: 336px;
+	height: 225px;
+	padding-left: 7px;
+	margin-right: auto;
+}
+
+.text_footbal {
+	width: 345px;
+	height: 225px;
+	margin-left: auto;
+	text-align: left;
+}
+
+.text_footbal h2 {
+	padding-top: 70px;
+	padding-bottom: 10px;
+	text-transform: uppercase;
+	font-size: 18px;
+	font-family: 'Bebas', sans-serif;
+}
+
+.text_footbal p {
+	font-family: 'Arial', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 1.4;
+}
+
+.butto {
+	width: 186px;
+	height: 43px;
+	border-radius: 8px;
+	margin-top: 39px;
+	background-color: #eaaf46;
+}
+
+.butto a {
+	text-decoration: none;
+}
+
+.butto p {
+	text-align: center;
+	padding-top: 12px;
+	text-transform: uppercase;
+	font-family: 'Bebas', sans-serif;
+	font-weight: bold;
+	font-size: 16px;
+	color: black;
+}
+
+.round2 {
+	margin-top: 40px;
+	height: 221px;
+}
+
+.dance_text {
+	position: absolute;
+	margin-right: auto;
+	width: 343px;
+}
+
+.dance_text h2 {
+	text-transform: uppercase;
+	font-size: 18px;
+	font-family: 'Bebas', sans-serif;
+	padding-left: 7px;
+	padding-top: 42px;
+}
+
+.dance_text p {
+	padding-left: 7px;
+	padding-top: 15px;
+	font-family: 'Arial', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.dance_image {
+	margin-left: auto;
+	width: 332px;
+	height: 221px;
+	padding-right: 12px;
+}
+
+.dance_text .butto {
+	margin-top: 49px;
+	margin-left: auto;
+	font-size: 16px;
+}
+
+.college {
+	height: 221px;
+	margin-top: 45px;
+}
+
+.img_college {
+	position: absolute;
+	width: 343px;
+	height: 221px;
+	padding-left: 10px;
+}
+
+.text_college .butto {
+	margin-top: 35px;
+}
+
+footer {
+	width: 100%;
+	padding-top: 46px;
+}
+
+.niz {
+	height: 133px;
+	background-color: #eaaf46;
+}
+
+.niz p {
+	font-family: 'Arial', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 37px;
+}
+
+.social {
+	height: 30px;
+	width: 350px;
+	margin: 0 auto;
+	margin-top: 25px;
+}
+
+.social ul li {
+	display: block;
+	float: left;
+	list-style: none;
+}
+
+.social ul li:not(:first-child) {
+	padding-left: 11px;
+}
+
+
+.contacts {
+	height: 90px;
+	width: 710px;
+	margin: 0 auto;
+}
+
+.contacts ul {
+	padding-top: 30px;
+	padding-left: 7px;
+}
+
+.contacts ul li {
+	font-style: 'Arial', sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	float: left;
+	list-style: none;
+}
+
+.contacts ul li:not(:first-child) {
+	margin-left: 58px;
+}
